@@ -53,7 +53,7 @@ Service Info: OS: Unix
 
 ## Paso a Paso
 
-Notamos en el reporte específico que el ftp tiene acceso anon, que al listar nos muestra archivos html, lo que nos da indicio de que esta posicionado en la carpeta raíz del puerto 80. Lo primero que se me ocurre es intentar subir un archivo para obtener una shell.
+Notamos en el reporte específico que el ftp tiene acceso anon, que al listar nos muestra archivos html, lo que nos da indicio de que está posicionado en la carpeta raíz del puerto 80. Lo primero que se me ocurre es intentar subir un archivo para obtener una shell.
 
 ![image](https://github.com/user-attachments/assets/12e79185-60f2-4fd6-b755-8a490eab4dfd)
 
