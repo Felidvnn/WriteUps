@@ -144,7 +144,8 @@ Me di cuenta que no tiene nano la máquina por lo que no puedo editar el etc sud
 
 para esto creamos un hash de contraseña con:
 
-`openssl passwd hola123`
+`openssl passwd 123123`
+
 ![image](https://github.com/user-attachments/assets/97956565-f814-41a5-80ef-9e0db7fa5bf0)
 
 
